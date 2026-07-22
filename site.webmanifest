@@ -1,0 +1,14 @@
+{
+  "name": "HERE - Digital Growth Agency",
+  "short_name": "HERE",
+  "lang": "sv-SE",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b3535",
+  "theme_color": "#0b3535",
+  "icons": [
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "/favicon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/favicon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
