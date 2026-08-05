@@ -1,0 +1,130 @@
+# HERE – Digital Growth Agency
+
+> Svensk byrå för digital tillväxt. HERE (Hither AB) kombinerar strategi, digital
+> marknadsföring, data och systemutveckling för företag som vill växa mätbart.
+> Google Premier Partner, vilket placerar byrån i toppskiktet av svenska
+> Google Ads-byråer. Kontor i Tollered (Göteborg) och Trollhättan.
+
+Kontakt: info@here.se, +46723327510. Organisationsnummer 559033-9353.
+Innehållet finns på svenska (here.se) och engelska (here.se/en/).
+
+Verktygen nedan är gratis och körs helt i besökarens webbläsare – inga filer
+eller annonstexter skickas till HERE eller någon tredje part.
+
+## Start och kontakt
+
+- [HERE - Digital Growth Agency](https://here.se/): HERE hjälper företag med digital tillväxt genom strategi, data, marknadsföring, spårning, lead management, systemutveckling och utbildning.
+- [Affärsområden](https://here.se/affarsomraden/): Läs om HEREs affärsområden inom strategi, digital marknadsföring, lead management, datainsamling, spårning, utbildning och systemutveckling.
+- [Datainsamling, GDPR och server-side tracking](https://here.se/affarsomraden/datainsamling-lagring/): HERE hjälper företag med datainsamling, lagring, GDPR, server-side tracking, datakvalitet och strukturer för bättre digital uppföljning.
+- [Digital marknadsföringsbyrå för mätbar tillväxt](https://here.se/affarsomraden/digital-marknadsforing/): HERE hjälper företag med digital marknadsföring, SEO, Google Ads, Meta Ads, LinkedIn Ads, TikTok, Snapchat och datadriven optimering.
+- [Google Ads-byrå med certifierade specialister](https://here.se/affarsomraden/digital-marknadsforing/google-ads/): HERE är Google Premier Partner och hjälper företag med Google Ads, certifierade specialister, beta-funktioner, rapporter och optimering.
+- [LinkedIn Ads-byrå för B2B och leadgenerering](https://here.se/affarsomraden/digital-marknadsforing/linkedin-ads/): HERE hjälper B2B-företag med LinkedIn Ads, målgrupper, leadgenerering, content distribution och kampanjer mot beslutsfattare.
+- [Meta Ads byrå för Facebook och Instagram](https://here.se/affarsomraden/digital-marknadsforing/meta-ads/): HERE hjälper företag med Meta Ads på Facebook och Instagram, kampanjstruktur, kreativa tester, målgrupper och konverteringsoptimering.
+- [Pinterest Ads-byrå för inspiration och e-handel](https://here.se/affarsomraden/digital-marknadsforing/pinterest-ads/): HERE hjälper företag med Pinterest Ads, målgrupper, visuella kampanjer, shoppingannonser, kreativ strategi och uppföljning.
+- [Reddit Ads-byrå för relevanta communities](https://here.se/affarsomraden/digital-marknadsforing/reddit-ads/): HERE hjälper företag med Reddit Ads, subreddit-strategi, målgrupper, community-anpassade budskap, kampanjstruktur och uppföljning.
+- [SEO byrå för organisk tillväxt](https://here.se/affarsomraden/digital-marknadsforing/seo/): HERE hjälper företag med SEO, AI-EO, GEO, teknisk analys, innehåll och struktur som stärker synlighet i både Google och AI-sök.
+- [Snapchat Ads-byrå för yngre målgrupper](https://here.se/affarsomraden/digital-marknadsforing/snapchat-ads/): HERE hjälper företag med Snapchat Ads, målgrupper, kreativa format, kampanjstruktur, pixel och uppföljning för yngre målgrupper.
+- [TikTok Ads-byrå för kreativ och mätbar tillväxt](https://here.se/affarsomraden/digital-marknadsforing/tiktok-ads/): HERE hjälper företag med TikTok Ads, kreativa tester, målgruppsstrategi, pixel, konverteringar och annonsering för tillväxt.
+- [Lead management, CRM-flöden och kvalificering](https://here.se/affarsomraden/lead-management/): HERE hjälper företag med lead management, CRM-flöden, kvalificering, marketing automation och uppföljning från lead till affär.
+- [GA4, spårning och datavisualisering för företag](https://here.se/affarsomraden/sparning-visualisering/): HERE hjälper företag med GA4, Google Tag Manager, konverteringsspårning, dashboards, Looker Studio och datadriven rapportering.
+- [Digital strategi och affärsutveckling för tillväxt](https://here.se/affarsomraden/strategi-affarsutveckling/): HERE hjälper företag med digital strategi, affärsutveckling, tillväxtplaner, go-to-market, prioriteringar och datadrivet beslutsstöd.
+- [Systemutveckling med AI, integrationer och webbappar](https://here.se/affarsomraden/systemutveckling/): HERE hjälper företag med systemutveckling från förstudie och kravanalys till design, programmering, testning, drift och underhåll.
+- [Utbildning och rekrytering inom digital tillväxt](https://here.se/affarsomraden/utbildning-rekrytering/): HERE hjälper företag med utbildning, workshops, kompetenskartläggning och rekryteringsstöd inom digital marknadsföring och tillväxt.
+- [Case Studies](https://here.se/case-studies/): Läs kundcase från MM Sports, Eleiko, IHM Business School, TRUMPF Scandinavia och Innovatum Science Park och se hur HERE skapar digital tillväxt.
+- [Eleiko Go-To-Market och e-handel](https://here.se/case-studies/eleiko/): Läs hur HERE och Eleiko byggde en Go-To-Market-strategi med skalbar kontostruktur och datadriven uppföljning – och tog e-handeln till 100 MSEK på ett år.
+- [IHM Business School utbildningscase](https://here.se/case-studies/ihm-business-school/): Läs hur HERE sedan 2017 utvecklat och lett kurser i digital marknadsföring och e-handel på IHM Business School – med 4,8 i snittbetyg från studenterna.
+- [Innovatum Science Park digital tillväxt](https://here.se/case-studies/innovatum-science-park/): Läs hur HERE och Innovatum Science Park byggt långsiktiga arbetssätt för inkubatorbolag, stärkt marknadsföringen och skapat datadrivna processer.
+- [MM Sports tillgänglighet och EAA](https://here.se/case-studies/mmsports/): Läs hur HERE hjälpte MM Sports att strukturera arbetet med digital tillgänglighet enligt WCAG och EAA inför nya krav på e-handel.
+- [TRUMPF Scandinavia marknadsteam](https://here.se/case-studies/trumpf-scandinavia/): Läs hur HERE och TRUMPF Scandinavia byggde ett marknadsteam och en uppföljningsmodell som gav 50 % fler kvalificerade leads och +200 % i offertvärde.
+- [Cookiepolicy](https://here.se/cookiepolicy/): Läs om cookies och externa inbäddningar på here.se, hur de används och hur du hanterar cookies i din webbläsare.
+- [Integritetspolicy](https://here.se/integritetspolicy/): Läs hur Hither AB och HERE behandlar personuppgifter, vilka rättigheter du har och hur du kontaktar oss i dataskyddsfrågor.
+- [Kontakta HERE](https://here.se/kontakt/): Kontakta HERE i Tollered eller Trollhättan för rådgivning inom digital tillväxt, marknadsföring, strategi, data, spårning och systemutveckling.
+- [Nyheter](https://here.se/nyheter/): Läs nyheter, poddar och artiklar från HERE om digital marknadsföring, SEO, martech, Google Ads och kundsamarbeten.
+- [Derome om att bygga marknadsavdelning](https://here.se/nyheter/derome-om-att-bygga-en-marknadsavdelning/): Lyssna på Derome om arbetet med att bygga en egen marknadsavdelning och skapa bättre struktur för digital marknadsföring.
+- [Google Premier Partner i Sverige](https://here.se/nyheter/googlepremierpartner/): HERE är Google Premier Partner och tillhör toppskiktet av svenska byråer inom Google Ads. Läs vad det betyder för kunder.
+- [Martech Report 2025 - svensk summering](https://here.se/nyheter/summering-av-martech-rapporten-2025/): Läs HEREs svenska summering av Martech Report 2025 och få insikter om marknadsteknik, data och digital tillväxt.
+- [Xylem väljer HERE för digital marknadsföring](https://here.se/nyheter/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/): Xylem samarbetar med HERE för att växla upp digital marknadsföring med strategi, operativ kraft och datadriven uppföljning.
+- [Om HERE](https://here.se/om-here/): Läs mer om HERE, vår kultur, våra värderingar, teamet bakom byrån och resan från starten 2016 till dagens digitala tillväxtpartner.
+- [Alex Huang](https://here.se/om-here/alex-huang/): Alex Huang – Administration & Economy på HERE. Specialistområden: Administration, Ekonomi, Interna processer. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Dennis Han](https://here.se/om-here/dennis-han/): Dennis Han – Google Ads Specialist på HERE. Specialistområden: Google Ads, Kampanjoptimering, Analys. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Gary Vasquez](https://here.se/om-here/gary-vasquez/): Gary Vasquez – SEO Specialist & Project Manager på HERE. Specialistområden: SEO, Projektledning. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Gustav Önneslöv](https://here.se/om-here/gustav-onneslov/): Gustav Önneslöv – Google Ads Specialist på HERE. Specialistområden: Google Ads, Kontostruktur, E-handel. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Leo Artborg](https://here.se/om-here/leo-artborg/): Leo Artborg – Sales på HERE. Specialistområden: Försäljning, Kunddialog, Behovsanalys. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Niklas Johansson](https://here.se/om-here/niklas-johansson/): Niklas Johansson – Digital Growth Specialist på HERE. Specialistområden: Paid social, E-handel. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Pontus Engqvist](https://here.se/om-here/pontus-engqvist/): Pontus Engqvist – Digital Growth Specialist & Educator på HERE. Specialistområden: Digital strategi. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Rasmus Dagerhorn](https://here.se/om-here/rasmus-dagerhorn/): Rasmus Dagerhorn – Digital Growth Specialist & Educator på HERE. Specialistområden: Google Ads. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Robin Pettersson](https://here.se/om-here/robin-pettersson/): Robin Pettersson – Sales, Digital Growth & Educator på HERE. Specialistområden: Försäljning, Digital tillväxt. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Digitala verktyg](https://here.se/verktyg/): Gratis verktyg från HERE: UTM-byggare, RSA-byggare, Google Shopping feed-validator, ROAS-kalkylator, tillgänglighetskoll och file hasher.
+- [Google Shopping feed-validator med GTIN-kontroll](https://here.se/verktyg/feed-validator/): Validera Google Shopping-flöden mot Merchant Centers krav. Kontrollera attribut, GTIN, prisformat och datakvalitet lokalt i webbläsaren.
+- [RSA-byggare med förhandsvisning och annonsstyrka](https://here.se/verktyg/rsa-byggare/): Bygg responsiva sökannonser med pixelförhandsvisning, sökordstäckning, variationsanalys, uppskattad annonsstyrka och CSV-export. Gratis från HERE.
+- [UTM-byggare med namnkonvention och GA4-validering](https://here.se/verktyg/utm-byggare/): Bygg en spårbar UTM-länk med enhetlig namnkonvention, tydlig kampanjstruktur och GA4-kanalvalidering. Gratis UTM-verktyg från HERE.
+- [Kontakta HERE](https://here.se/kontakt/): Kontakta HERE i Tollered eller Trollhättan för rådgivning inom digital tillväxt, marknadsföring, strategi, data, spårning och systemutveckling.
+
+## Affärsområden
+
+- [Affärsområden](https://here.se/affarsomraden/): Läs om HEREs affärsområden inom strategi, digital marknadsföring, lead management, datainsamling, spårning, utbildning och systemutveckling.
+- [Datainsamling, GDPR och server-side tracking](https://here.se/affarsomraden/datainsamling-lagring/): HERE hjälper företag med datainsamling, lagring, GDPR, server-side tracking, datakvalitet och strukturer för bättre digital uppföljning.
+- [Digital marknadsföringsbyrå för mätbar tillväxt](https://here.se/affarsomraden/digital-marknadsforing/): HERE hjälper företag med digital marknadsföring, SEO, Google Ads, Meta Ads, LinkedIn Ads, TikTok, Snapchat och datadriven optimering.
+- [Google Ads-byrå med certifierade specialister](https://here.se/affarsomraden/digital-marknadsforing/google-ads/): HERE är Google Premier Partner och hjälper företag med Google Ads, certifierade specialister, beta-funktioner, rapporter och optimering.
+- [LinkedIn Ads-byrå för B2B och leadgenerering](https://here.se/affarsomraden/digital-marknadsforing/linkedin-ads/): HERE hjälper B2B-företag med LinkedIn Ads, målgrupper, leadgenerering, content distribution och kampanjer mot beslutsfattare.
+- [Meta Ads byrå för Facebook och Instagram](https://here.se/affarsomraden/digital-marknadsforing/meta-ads/): HERE hjälper företag med Meta Ads på Facebook och Instagram, kampanjstruktur, kreativa tester, målgrupper och konverteringsoptimering.
+- [Pinterest Ads-byrå för inspiration och e-handel](https://here.se/affarsomraden/digital-marknadsforing/pinterest-ads/): HERE hjälper företag med Pinterest Ads, målgrupper, visuella kampanjer, shoppingannonser, kreativ strategi och uppföljning.
+- [Reddit Ads-byrå för relevanta communities](https://here.se/affarsomraden/digital-marknadsforing/reddit-ads/): HERE hjälper företag med Reddit Ads, subreddit-strategi, målgrupper, community-anpassade budskap, kampanjstruktur och uppföljning.
+- [SEO byrå för organisk tillväxt](https://here.se/affarsomraden/digital-marknadsforing/seo/): HERE hjälper företag med SEO, AI-EO, GEO, teknisk analys, innehåll och struktur som stärker synlighet i både Google och AI-sök.
+- [Snapchat Ads-byrå för yngre målgrupper](https://here.se/affarsomraden/digital-marknadsforing/snapchat-ads/): HERE hjälper företag med Snapchat Ads, målgrupper, kreativa format, kampanjstruktur, pixel och uppföljning för yngre målgrupper.
+- [TikTok Ads-byrå för kreativ och mätbar tillväxt](https://here.se/affarsomraden/digital-marknadsforing/tiktok-ads/): HERE hjälper företag med TikTok Ads, kreativa tester, målgruppsstrategi, pixel, konverteringar och annonsering för tillväxt.
+- [Lead management, CRM-flöden och kvalificering](https://here.se/affarsomraden/lead-management/): HERE hjälper företag med lead management, CRM-flöden, kvalificering, marketing automation och uppföljning från lead till affär.
+- [GA4, spårning och datavisualisering för företag](https://here.se/affarsomraden/sparning-visualisering/): HERE hjälper företag med GA4, Google Tag Manager, konverteringsspårning, dashboards, Looker Studio och datadriven rapportering.
+- [Digital strategi och affärsutveckling för tillväxt](https://here.se/affarsomraden/strategi-affarsutveckling/): HERE hjälper företag med digital strategi, affärsutveckling, tillväxtplaner, go-to-market, prioriteringar och datadrivet beslutsstöd.
+- [Systemutveckling med AI, integrationer och webbappar](https://here.se/affarsomraden/systemutveckling/): HERE hjälper företag med systemutveckling från förstudie och kravanalys till design, programmering, testning, drift och underhåll.
+- [Utbildning och rekrytering inom digital tillväxt](https://here.se/affarsomraden/utbildning-rekrytering/): HERE hjälper företag med utbildning, workshops, kompetenskartläggning och rekryteringsstöd inom digital marknadsföring och tillväxt.
+
+## Gratisverktyg
+
+- [Digitala verktyg](https://here.se/verktyg/): Gratis verktyg från HERE: UTM-byggare, RSA-byggare, Google Shopping feed-validator, ROAS-kalkylator, tillgänglighetskoll och file hasher.
+- [Google Shopping feed-validator med GTIN-kontroll](https://here.se/verktyg/feed-validator/): Validera Google Shopping-flöden mot Merchant Centers krav. Kontrollera attribut, GTIN, prisformat och datakvalitet lokalt i webbläsaren.
+- [RSA-byggare med förhandsvisning och annonsstyrka](https://here.se/verktyg/rsa-byggare/): Bygg responsiva sökannonser med pixelförhandsvisning, sökordstäckning, variationsanalys, uppskattad annonsstyrka och CSV-export. Gratis från HERE.
+- [UTM-byggare med namnkonvention och GA4-validering](https://here.se/verktyg/utm-byggare/): Bygg en spårbar UTM-länk med enhetlig namnkonvention, tydlig kampanjstruktur och GA4-kanalvalidering. Gratis UTM-verktyg från HERE.
+- [ROAS-kalkylator](https://roas.here.se/): Räkna på avkastning på annonskostnad, simulera budget- och intäktsscenarier och hitta break-even-ROAS.
+- [Accessibility WCAG / EAA](https://accessibility.here.se/): Kontrollera webbplatsens färgkontraster och alt-texter mot tillgänglighetskraven i WCAG och EAA.
+- [File Hasher](https://hash.here.se/): Hasha CSV-filer lokalt med bland annat SHA-256, SHA-3 och BLAKE3 för dataverifiering och integritetsskydd.
+
+## Kundcase
+
+- [Case Studies](https://here.se/case-studies/): Läs kundcase från MM Sports, Eleiko, IHM Business School, TRUMPF Scandinavia och Innovatum Science Park och se hur HERE skapar digital tillväxt.
+- [Eleiko Go-To-Market och e-handel](https://here.se/case-studies/eleiko/): Läs hur HERE och Eleiko byggde en Go-To-Market-strategi med skalbar kontostruktur och datadriven uppföljning – och tog e-handeln till 100 MSEK på ett år.
+- [IHM Business School utbildningscase](https://here.se/case-studies/ihm-business-school/): Läs hur HERE sedan 2017 utvecklat och lett kurser i digital marknadsföring och e-handel på IHM Business School – med 4,8 i snittbetyg från studenterna.
+- [Innovatum Science Park digital tillväxt](https://here.se/case-studies/innovatum-science-park/): Läs hur HERE och Innovatum Science Park byggt långsiktiga arbetssätt för inkubatorbolag, stärkt marknadsföringen och skapat datadrivna processer.
+- [MM Sports tillgänglighet och EAA](https://here.se/case-studies/mmsports/): Läs hur HERE hjälpte MM Sports att strukturera arbetet med digital tillgänglighet enligt WCAG och EAA inför nya krav på e-handel.
+- [TRUMPF Scandinavia marknadsteam](https://here.se/case-studies/trumpf-scandinavia/): Läs hur HERE och TRUMPF Scandinavia byggde ett marknadsteam och en uppföljningsmodell som gav 50 % fler kvalificerade leads och +200 % i offertvärde.
+
+## Nyheter och insikter
+
+- [Nyheter](https://here.se/nyheter/): Läs nyheter, poddar och artiklar från HERE om digital marknadsföring, SEO, martech, Google Ads och kundsamarbeten.
+- [Derome om att bygga marknadsavdelning](https://here.se/nyheter/derome-om-att-bygga-en-marknadsavdelning/): Lyssna på Derome om arbetet med att bygga en egen marknadsavdelning och skapa bättre struktur för digital marknadsföring.
+- [Google Premier Partner i Sverige](https://here.se/nyheter/googlepremierpartner/): HERE är Google Premier Partner och tillhör toppskiktet av svenska byråer inom Google Ads. Läs vad det betyder för kunder.
+- [Martech Report 2025 - svensk summering](https://here.se/nyheter/summering-av-martech-rapporten-2025/): Läs HEREs svenska summering av Martech Report 2025 och få insikter om marknadsteknik, data och digital tillväxt.
+- [Xylem väljer HERE för digital marknadsföring](https://here.se/nyheter/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/): Xylem samarbetar med HERE för att växla upp digital marknadsföring med strategi, operativ kraft och datadriven uppföljning.
+
+## Om HERE och teamet
+
+- [Om HERE](https://here.se/om-here/): Läs mer om HERE, vår kultur, våra värderingar, teamet bakom byrån och resan från starten 2016 till dagens digitala tillväxtpartner.
+- [Alex Huang](https://here.se/om-here/alex-huang/): Alex Huang – Administration & Economy på HERE. Specialistområden: Administration, Ekonomi, Interna processer. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Dennis Han](https://here.se/om-here/dennis-han/): Dennis Han – Google Ads Specialist på HERE. Specialistområden: Google Ads, Kampanjoptimering, Analys. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Gary Vasquez](https://here.se/om-here/gary-vasquez/): Gary Vasquez – SEO Specialist & Project Manager på HERE. Specialistområden: SEO, Projektledning. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Gustav Önneslöv](https://here.se/om-here/gustav-onneslov/): Gustav Önneslöv – Google Ads Specialist på HERE. Specialistområden: Google Ads, Kontostruktur, E-handel. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Leo Artborg](https://here.se/om-here/leo-artborg/): Leo Artborg – Sales på HERE. Specialistområden: Försäljning, Kunddialog, Behovsanalys. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Niklas Johansson](https://here.se/om-here/niklas-johansson/): Niklas Johansson – Digital Growth Specialist på HERE. Specialistområden: Paid social, E-handel. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Pontus Engqvist](https://here.se/om-here/pontus-engqvist/): Pontus Engqvist – Digital Growth Specialist & Educator på HERE. Specialistområden: Digital strategi. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Rasmus Dagerhorn](https://here.se/om-here/rasmus-dagerhorn/): Rasmus Dagerhorn – Digital Growth Specialist & Educator på HERE. Specialistområden: Google Ads. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Robin Pettersson](https://here.se/om-here/robin-pettersson/): Robin Pettersson – Sales, Digital Growth & Educator på HERE. Specialistområden: Försäljning, Digital tillväxt. Läs om erfarenhet, kompetens och kunduppdrag.
+
+## Villkor och integritet
+
+- [Integritetspolicy](https://here.se/integritetspolicy/): Läs hur Hither AB och HERE behandlar personuppgifter, vilka rättigheter du har och hur du kontaktar oss i dataskyddsfrågor.
+- [Cookiepolicy](https://here.se/cookiepolicy/): Läs om cookies och externa inbäddningar på here.se, hur de används och hur du hanterar cookies i din webbläsare.
+
+## Övrigt
+
+- Fullständig sidkarta: https://here.se/sitemap.xml
+- Engelsk version: https://here.se/en/

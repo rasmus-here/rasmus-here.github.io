@@ -1,4 +1,4 @@
+# Förhandsvisning av here.se. Ska inte indexeras – den riktiga sajten
+# ligger på https://here.se/ och är den som ska rankas.
 User-agent: *
-Allow: /
-
-Sitemap: https://here.se/sitemap.xml
+Disallow: /
