@@ -1,4 +1,4 @@
-import{j as a}from"./LanguageSwitcher-DjiBp0SD.js";/**
+import{j as a}from"./LanguageSwitcher-BpcmEs4Z.js";/**
  * @license lucide-react v0.468.0 - ISC
  *
  * This source code is licensed under the ISC license.

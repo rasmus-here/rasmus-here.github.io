@@ -1,4 +1,4 @@
-import{j as J}from"./LanguageSwitcher-DjiBp0SD.js";function ve(W){return W&&W.__esModule&&Object.prototype.hasOwnProperty.call(W,"default")?W.default:W}/**
+import{j as J}from"./LanguageSwitcher-BpcmEs4Z.js";function ve(W){return W&&W.__esModule&&Object.prototype.hasOwnProperty.call(W,"default")?W.default:W}/**
  * @license lucide-react v0.468.0 - ISC
  *
  * This source code is licensed under the ISC license.
