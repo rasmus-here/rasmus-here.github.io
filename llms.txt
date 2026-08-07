@@ -38,6 +38,7 @@ eller annonstexter skickas till HERE eller någon tredje part.
 - [TRUMPF Scandinavia marknadsteam](https://here.se/case-studies/trumpf-scandinavia/): Läs hur HERE och TRUMPF Scandinavia byggde ett marknadsteam och en uppföljningsmodell som gav 50 % fler kvalificerade leads och +200 % i offertvärde.
 - [Cookiepolicy](https://here.se/cookiepolicy/): Läs om cookies och externa inbäddningar på here.se, hur de används och hur du hanterar cookies i din webbläsare.
 - [Integritetspolicy](https://here.se/integritetspolicy/): Läs hur Hither AB och HERE behandlar personuppgifter, vilka rättigheter du har och hur du kontaktar oss i dataskyddsfrågor.
+- [Kitsu](https://here.se/kitsu/): Kitsu är HEREs marknadsföringsportal: moduler för CMS, formulär, quiz, CRM, annonsdata och planering, med en AI som utför arbetet.
 - [Kontakta HERE](https://here.se/kontakt/): Kontakta HERE i Tollered eller Trollhättan för rådgivning inom digital tillväxt, marknadsföring, strategi, data, spårning och systemutveckling.
 - [Nyheter](https://here.se/nyheter/): Läs nyheter, poddar och artiklar från HERE om digital marknadsföring, SEO, martech, Google Ads och kundsamarbeten.
 - [Derome om att bygga marknadsavdelning](https://here.se/nyheter/derome-om-att-bygga-en-marknadsavdelning/): Lyssna på Derome om arbetet med att bygga en egen marknadsavdelning och skapa bättre struktur för digital marknadsföring.

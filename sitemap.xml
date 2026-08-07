@@ -49,6 +49,14 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/verktyg/" />
   </url>
   <url>
+    <loc>https://here.se/kitsu/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/kitsu/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/kitsu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/kitsu/" />
+  </url>
+  <url>
     <loc>https://here.se/nyheter/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -413,6 +421,14 @@
     <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/verktyg/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/tools/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/verktyg/" />
+  </url>
+  <url>
+    <loc>https://here.se/en/kitsu/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/kitsu/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/kitsu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/kitsu/" />
   </url>
   <url>
     <loc>https://here.se/en/news/</loc>
