@@ -367,6 +367,14 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/rasmus-dagerhorn/" />
   </url>
   <url>
+    <loc>https://here.se/om-here/robin-olsen/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/robin-olsen/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/robin-olsen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/robin-olsen/" />
+  </url>
+  <url>
     <loc>https://here.se/om-here/alex-huang/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -747,6 +755,14 @@
     <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/rasmus-dagerhorn/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/rasmus-dagerhorn/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/rasmus-dagerhorn/" />
+  </url>
+  <url>
+    <loc>https://here.se/en/about/robin-olsen/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/robin-olsen/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/robin-olsen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/robin-olsen/" />
   </url>
   <url>
     <loc>https://here.se/en/about/alex-huang/</loc>

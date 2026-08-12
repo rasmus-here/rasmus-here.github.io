@@ -48,14 +48,15 @@ eller annonstexter skickas till HERE eller någon tredje part.
 - [Xylem väljer HERE för digital marknadsföring](https://here.se/nyheter/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/): Xylem samarbetar med HERE för att växla upp digital marknadsföring med strategi, operativ kraft och datadriven uppföljning.
 - [Om HERE](https://here.se/om-here/): Läs mer om HERE, vår kultur, våra värderingar, teamet bakom byrån och resan från starten 2016 till dagens digitala tillväxtpartner.
 - [Alex Huang](https://here.se/om-here/alex-huang/): Alex Huang – Administration & Economy på HERE. Specialistområden: Administration, Ekonomi, Interna processer. Läs om erfarenhet, kompetens och kunduppdrag.
-- [Dennis Han](https://here.se/om-here/dennis-han/): Dennis Han – Google Ads Specialist på HERE. Specialistområden: Google Ads, Kampanjoptimering, Analys. Läs om erfarenhet, kompetens och kunduppdrag.
-- [Gary Vasquez](https://here.se/om-here/gary-vasquez/): Gary Vasquez – SEO Specialist & Project Manager på HERE. Specialistområden: SEO, Projektledning. Läs om erfarenhet, kompetens och kunduppdrag.
-- [Gustav Önneslöv](https://here.se/om-here/gustav-onneslov/): Gustav Önneslöv – Google Ads Specialist på HERE. Specialistområden: Google Ads, Kontostruktur, E-handel. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Dennis Han](https://here.se/om-here/dennis-han/): Dennis Han – Digital Growth Specialist på HERE. Specialistområden: Google Ads, Kampanjoptimering, Analys. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Gary Vasquez](https://here.se/om-here/gary-vasquez/): Gary Vasquez – Digital Growth Specialist på HERE. Specialistområden: SEO, Projektledning, Innehållsstrategi. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Gustav Önneslöv](https://here.se/om-here/gustav-onneslov/): Gustav Önneslöv – Digital Growth Specialist på HERE. Specialistområden: Google Ads, Kontostruktur, E-handel. Läs om erfarenhet, kompetens och kunduppdrag.
 - [Leo Artborg](https://here.se/om-here/leo-artborg/): Leo Artborg – Sales på HERE. Specialistområden: Försäljning, Kunddialog, Behovsanalys. Läs om erfarenhet, kompetens och kunduppdrag.
 - [Niklas Johansson](https://here.se/om-here/niklas-johansson/): Niklas Johansson – Digital Growth Specialist på HERE. Specialistområden: Paid social, E-handel. Läs om erfarenhet, kompetens och kunduppdrag.
-- [Pontus Engqvist](https://here.se/om-here/pontus-engqvist/): Pontus Engqvist – Digital Growth Specialist & Educator på HERE. Specialistområden: Digital strategi, SEO. Läs om erfarenhet, kompetens och kunduppdrag.
-- [Rasmus Dagerhorn](https://here.se/om-here/rasmus-dagerhorn/): Rasmus Dagerhorn – Digital Growth Specialist & Educator på HERE. Specialistområden: Google Ads. Läs om erfarenhet, kompetens och kunduppdrag.
-- [Robin Pettersson](https://here.se/om-here/robin-pettersson/): Robin Pettersson – Sales, Digital Growth & Educator på HERE. Specialistområden: Försäljning, Digital tillväxt. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Pontus Engqvist](https://here.se/om-here/pontus-engqvist/): Pontus Engqvist – Digital Growth Specialist på HERE. Specialistområden: Digital strategi, SEO, Utbildning. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Rasmus Dagerhorn](https://here.se/om-here/rasmus-dagerhorn/): Rasmus Dagerhorn – Digital Growth Specialist på HERE. Specialistområden: Google Ads, Spårning & GDPR. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Robin Olsen](https://here.se/om-here/robin-olsen/): Robin Olsen – Digital Growth Specialist på HERE. Specialistområden: SEO, Digital strategi, Digital marknadsföring. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Robin Pettersson](https://here.se/om-here/robin-pettersson/): Robin Pettersson – Digital Growth Specialist på HERE. Specialistområden: Försäljning, Digital tillväxt. Läs om erfarenhet, kompetens och kunduppdrag.
 - [Digitala verktyg](https://here.se/verktyg/): Gratis verktyg från HERE: UTM-byggare, RSA-byggare, Google Shopping feed-validator, ROAS-kalkylator, tillgänglighetskoll och file hasher.
 - [Google Shopping feed-validator med GTIN-kontroll](https://here.se/verktyg/feed-validator/): Validera Google Shopping-flöden mot Merchant Centers krav. Kontrollera attribut, GTIN, prisformat och datakvalitet lokalt i webbläsaren.
 - [RSA-byggare med förhandsvisning och annonsstyrka](https://here.se/verktyg/rsa-byggare/): Bygg responsiva sökannonser med pixelförhandsvisning, sökordstäckning, variationsanalys, uppskattad annonsstyrka och CSV-export. Gratis från HERE.
@@ -113,14 +114,15 @@ eller annonstexter skickas till HERE eller någon tredje part.
 
 - [Om HERE](https://here.se/om-here/): Läs mer om HERE, vår kultur, våra värderingar, teamet bakom byrån och resan från starten 2016 till dagens digitala tillväxtpartner.
 - [Alex Huang](https://here.se/om-here/alex-huang/): Alex Huang – Administration & Economy på HERE. Specialistområden: Administration, Ekonomi, Interna processer. Läs om erfarenhet, kompetens och kunduppdrag.
-- [Dennis Han](https://here.se/om-here/dennis-han/): Dennis Han – Google Ads Specialist på HERE. Specialistområden: Google Ads, Kampanjoptimering, Analys. Läs om erfarenhet, kompetens och kunduppdrag.
-- [Gary Vasquez](https://here.se/om-here/gary-vasquez/): Gary Vasquez – SEO Specialist & Project Manager på HERE. Specialistområden: SEO, Projektledning. Läs om erfarenhet, kompetens och kunduppdrag.
-- [Gustav Önneslöv](https://here.se/om-here/gustav-onneslov/): Gustav Önneslöv – Google Ads Specialist på HERE. Specialistområden: Google Ads, Kontostruktur, E-handel. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Dennis Han](https://here.se/om-here/dennis-han/): Dennis Han – Digital Growth Specialist på HERE. Specialistområden: Google Ads, Kampanjoptimering, Analys. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Gary Vasquez](https://here.se/om-here/gary-vasquez/): Gary Vasquez – Digital Growth Specialist på HERE. Specialistområden: SEO, Projektledning, Innehållsstrategi. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Gustav Önneslöv](https://here.se/om-here/gustav-onneslov/): Gustav Önneslöv – Digital Growth Specialist på HERE. Specialistområden: Google Ads, Kontostruktur, E-handel. Läs om erfarenhet, kompetens och kunduppdrag.
 - [Leo Artborg](https://here.se/om-here/leo-artborg/): Leo Artborg – Sales på HERE. Specialistområden: Försäljning, Kunddialog, Behovsanalys. Läs om erfarenhet, kompetens och kunduppdrag.
 - [Niklas Johansson](https://here.se/om-here/niklas-johansson/): Niklas Johansson – Digital Growth Specialist på HERE. Specialistområden: Paid social, E-handel. Läs om erfarenhet, kompetens och kunduppdrag.
-- [Pontus Engqvist](https://here.se/om-here/pontus-engqvist/): Pontus Engqvist – Digital Growth Specialist & Educator på HERE. Specialistområden: Digital strategi, SEO. Läs om erfarenhet, kompetens och kunduppdrag.
-- [Rasmus Dagerhorn](https://here.se/om-here/rasmus-dagerhorn/): Rasmus Dagerhorn – Digital Growth Specialist & Educator på HERE. Specialistområden: Google Ads. Läs om erfarenhet, kompetens och kunduppdrag.
-- [Robin Pettersson](https://here.se/om-here/robin-pettersson/): Robin Pettersson – Sales, Digital Growth & Educator på HERE. Specialistområden: Försäljning, Digital tillväxt. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Pontus Engqvist](https://here.se/om-here/pontus-engqvist/): Pontus Engqvist – Digital Growth Specialist på HERE. Specialistområden: Digital strategi, SEO, Utbildning. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Rasmus Dagerhorn](https://here.se/om-here/rasmus-dagerhorn/): Rasmus Dagerhorn – Digital Growth Specialist på HERE. Specialistområden: Google Ads, Spårning & GDPR. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Robin Olsen](https://here.se/om-here/robin-olsen/): Robin Olsen – Digital Growth Specialist på HERE. Specialistområden: SEO, Digital strategi, Digital marknadsföring. Läs om erfarenhet, kompetens och kunduppdrag.
+- [Robin Pettersson](https://here.se/om-here/robin-pettersson/): Robin Pettersson – Digital Growth Specialist på HERE. Specialistområden: Försäljning, Digital tillväxt. Läs om erfarenhet, kompetens och kunduppdrag.
 
 ## Villkor och integritet
 
