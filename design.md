@@ -1,5 +1,5 @@
 ---
-version: 1.0.0
+version: 1.1.0
 status: active
 name: HERE Digital Growth System
 description: Design specification for HERE's public website. The system balances a confident growth-agency identity with readable, accessible and work-focused interfaces.
@@ -22,9 +22,23 @@ colors:
   border-on-dark: "rgba(239, 240, 241, 0.14)"
   border-on-light: "rgba(11, 53, 53, 0.14)"
   focus: "#f0b53d"
+productPalettes:
+  kitsu:
+    shell: "#191320"
+    shell-soft: "#251d30"
+    canvas: "#fdf4e9"
+    ink: "#0f3d3a"
+    accent: "#d98a4a"
+    accent-soft: "#eaa871"
 typography:
   family-sans: "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
   family-mono: "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+  fontLoading:
+    strategy: self-hosted
+    file: /fonts/inter-latin-wght-normal.woff2
+    variableWeightRange: "100 900"
+    fontDisplay: swap
+    preload: true
   display:
     fontSize: "clamp(3.2rem, 5.5vw, 5.8rem)"
     fontWeight: 850
@@ -93,6 +107,13 @@ layout:
   breakpoints:
     mobile: 720px
     compact-desktop: 1080px
+    componentLevel:
+      - 560px
+      - 640px
+      - 700px
+      - 860px
+      - 900px
+      - 980px
 components:
   button-primary:
     backgroundColor: "{colors.accent-primary}"
@@ -129,9 +150,12 @@ components:
     rounded: "{rounded.control}"
     minHeight: 44px
 motion:
-  fast: 150ms
-  standard: 240ms
-  easing: ease
+  fast: 160ms
+  ui: 200ms
+  modal: 250ms
+  easeOut: "cubic-bezier(0.23, 1, 0.32, 1)"
+  easeInOut: "cubic-bezier(0.77, 0, 0.175, 1)"
+  easeDrawer: "cubic-bezier(0.32, 0.72, 0, 1)"
   reducedMotion: disable-nonessential
 imagery:
   preferredFormats:
@@ -142,6 +166,17 @@ imagery:
   portraitObjectPosition: "center 24%"
   defaultTreatment: natural
   optionalTeamTreatment: grayscale
+  maxPortraitWidth: 1100px
+  maxHeroWidth: 1600px
+  dimensionSource: /src/imageDimensions.js
+identity:
+  favicon: /favicon.svg
+  faviconRaster:
+    - /favicon-192.png
+    - /favicon-512.png
+  appleTouchIcon: /apple-touch-icon.png
+  manifest: /site.webmanifest
+  themeColor: "#0b3535"
 ---
 
 # HERE Digital Growth System
@@ -170,11 +205,21 @@ Brödtext på mörk bakgrund använder `text-on-dark` eller `text-on-dark-muted`
 
 Alla kombinationer för löptext ska hålla minst WCAG AA-kontrast. Färg får inte ensam kommunicera status, val eller fel.
 
+### Kontrastfällan att känna till
+
+Sektionsregler som `.<sektion> p { color: var(--muted-light) }` matchar med samma specificitet som komponentens egen regel. Ligger sektionsregeln senare i `styles.css` vinner den, och ljus text för mörk bakgrund läcker in i ljusa komponenter inuti sektionen. Det har inträffat två gånger och gett 1.1:1 i kontrast.
+
+Scopa därför sektionens textfärger till den kolumn de gäller, till exempel `.kitsu-ai-copy p` i stället för `.kitsu-ai p`. Mät faktisk kontrast mot elementets verkliga bakgrund vid tveksamhet – och kom ihåg att `backgroundColor` är transparent när ytan använder en gradient, vilket ger falska mätvärden.
+
 ## Typografi
 
-Inter är förstahandsval och systemets sans-serif-stack är alltid fallback. Monospace används endast för kod, hashvärden och annan teknisk data.
+Inter self-hostas som variabelt woff2 med latin-subset, `font-display: swap` och `preload`. Ingen extern typsnittstjänst används. Vikt 100–900 finns tillgänglig, vilket rubrikvikten 850 kräver.
+
+Monospace används endast för kod, hashvärden och annan teknisk data.
 
 Rubriker är kompakta, tunga och vänsterställda. Letter spacing är alltid `0`; textstorlek ska inte styras direkt av viewportens bredd. Använd `clamp()` mellan stabila typografiska nivåer när rubriker behöver svara på tillgängligt utrymme.
+
+Långa svenska sammansättningar kan brytas mitt i ordet av den globala `overflow-wrap: break-word`. Sätt `hyphens: auto` på stora rubriker så avstavar webbläsaren korrekt i stället.
 
 Brödtext ska normalt ligga mellan 60 och 78 tecken per rad. Längre case och artiklar använder en läsbredd på högst 780px och en radhöjd mellan 1.65 och 1.76. Undvik centrerad löptext.
 
@@ -184,15 +229,17 @@ Eyebrows är korta kategorietiketter i versaler. De får aldrig bära informatio
 
 Spacing bygger på 4px. Vanliga avstånd är 8px inom en liten grupp, 16–24px mellan relaterade element, 32–48px mellan innehållsgrupper och 64–112px mellan större sektioner.
 
-Sidans huvudsakliga maxbredd är 1280px med 24px sidmarginal på desktop och 16px på mobil. Layouten går från flera kolumner till en kolumn vid 1080px eller 720px beroende på innehållstyp.
+Sidans huvudsakliga maxbredd är 1280px med 24px sidmarginal på desktop och 16px på mobil. Layouten går från flera kolumner till en kolumn vid 1080px eller 720px beroende på innehållstyp. Enskilda komponenter får egna brytpunkter när innehållet kräver det.
 
 Använd fullbreddsband för större sidsektioner. Kort används för upprepade objekt, formulär, FAQ-poster och tydligt avgränsade verktyg. Lägg inte kort inuti kort och gör inte varje textsektion till en fristående ruta.
+
+Skriv aldrig sektionspadding mot en odefinierad CSS-variabel. En `var()` utan värde gör hela deklarationen ogiltig, och sektionen blir helt utan luft utan att något syns i källan.
 
 ## Djup och ytor
 
 Hierarki skapas i första hand genom bakgrundston, kantlinje och spacing. Skuggor används sparsamt på upprepade kort och överlägg. Artikelkapitel och vanliga sidsektioner ska normalt vara plana.
 
-Standardkort använder 8px radie. Formulärets externa embed använder 18px eftersom dess interna form följer samma rundning. Piller reserveras för status, kompakta taggar och segmenterade val.
+Standardkort använder 8px radie. Formulärets externa embed använder 18px eftersom dess interna form följer samma rundning. Piller reserveras för status, kompakta taggar, segmenterade val och kompakta navigationslänkar.
 
 ## Knappar och länkar
 
@@ -204,15 +251,25 @@ Alla klickbara kontroller ska vara minst 44px höga eller ha en motsvarande trä
 
 ## Navigation
 
-Headern är sticky och använder `brand-dark` med lätt transparens. Aktiv sida och hover markeras med `accent-bright`. Desktopnavigationen får innehålla en dropdown för Affärsområden; vägen från trigger till meny ska vara sammanhängande så att menyn inte stängs när pekaren flyttas.
+Headern är sticky och använder `brand-dark` med lätt transparens. Aktiv sida och hover markeras med `accent-bright`. Desktopnavigationen har två dropdowns: Affärsområden, med digital marknadsföring som undermeny, och Verktyg, där Kitsu ligger överst följt av gratisverktygen. Vägen från trigger till meny ska vara sammanhängande så att menyn inte stängs när pekaren flyttas.
 
-På mindre skärmar ersätts huvudmenyn av en tydlig menyknapp. Mobilmenyn ska vara tangentbordsåtkomlig, kunna scrollas och aldrig täcka viktig information utan möjlighet att stängas.
+På mindre skärmar ersätts huvudmenyn av en tydlig menyknapp. Mobilmenyn speglar samma struktur med indenterade underlänkar, ska vara tangentbordsåtkomlig, kunna scrollas och aldrig täcka viktig information utan möjlighet att stängas.
+
+Externa destinationer, som verktygen på egna subdomäner, öppnas i ny flik med `rel="noopener noreferrer"`.
 
 ## Kort och informationsblock
 
 Kort ska ha en tydlig uppgift och en stabil höjd inom samma grupp. Bild, rubrik, beskrivning och handling ska följa samma ordning mellan kort. Länken placeras längst ned när korten jämförs i ett grid.
 
 Ojämna antal ska lösas genom avsiktlig komposition, exempelvis tre framhävda affärsområden följt av en balanserad sekundär rad. Lämna inte en tom simulerad kortplats.
+
+### Expanderbara kort
+
+När många likvärdiga objekt ska presenteras kompakt, som Kitsus moduler, används kort med ikon och namn som fälls ut vid klick.
+
+- Utfällningen animeras med `grid-template-rows` från `0fr` till `1fr`. Innehållet ska ligga kvar i DOM:en även hopfällt, så att sökmotorer och AI-läsare ser det.
+- Triggern är ett `button` med `aria-expanded` och `aria-controls`.
+- Chevron roterar för att visa tillstånd; färg ensam räcker inte.
 
 ## Case och artiklar
 
@@ -226,19 +283,45 @@ FAQ används bara när frågorna tillför sök- eller användarvärde. Synliga f
 
 Alla produktionsbilder lagras lokalt i `/public/assets`. Externa hotlinks används inte. WebP är standard för fotografi och SVG för logotyper och enkla vektorer.
 
+Bilder ska vara komprimerade och skalade till den storlek de faktiskt visas i: porträtt högst omkring 1100px, hero- och sektionsbilder högst omkring 1600px.
+
+Använd komponenten `<Img>` i stället för `<img>`. Den hämtar `width` och `height` ur `/src/imageDimensions.js` och reserverar plats innan bilden laddats. Nya bilder ska läggas till där.
+
 Visa det faktiska företaget, arbetet, personen eller resultatet. Undvik generiska stockbilder och atmosfäriska bilder som inte tillför information. Teamfotografier ska visa tillräckligt av personens höjd och får inte beskäras hårt kring ansiktet.
 
-Använd `object-fit: cover` endast när en stabil kortyta kräver det. Redaktionsbilder och skärmbilder använder normalt `object-fit: contain` så att information inte beskärs. Ange stabil `aspect-ratio`, bredd eller höjd för att undvika layoutskiften.
+Använd `object-fit: cover` endast när en stabil kortyta kräver det. Redaktionsbilder och skärmbilder använder normalt `object-fit: contain` så att information inte beskärs.
+
+### Gränssnittsbilder
+
+Skärmbilder från produktionsmiljöer innehåller ofta kunddata och kan inte publiceras. Återskapa gränssnittet i CSS och SVG i stället, som Kitsu-mockuparna. Det ger knivskarp rendering i alla upplösningar, ingen bildvikt, ingen kunddata och möjlighet att uppdatera vyn i kod. Placeholderdata ska vara neutral. Hela mockupen märks `aria-hidden` eftersom den är dekorativ.
 
 ## Formulär
 
 Kontaktformuläret är en Kitsu-embed. HERE-sidan ansvarar för dess placering, responsiva bredd och omgivande layout. Kitsu ansvarar för fält, validering, formulärbakgrund och intern spacing.
 
-Formuläret ska visuellt linjera med kontaktinformationen och inte ha en extra mörk ram. Resize-meddelanden accepteras endast från `https://kitsu.se` och endast när `formId` matchar det förväntade formuläret.
+Formuläret ska visuellt linjera med kontaktinformationen och inte ha en extra mörk ram. Resize-meddelanden accepteras endast från `https://kitsu.se` och endast när `formId` matchar det förväntade formuläret. Embedden laddas med `loading="lazy"`.
+
+## Verktyg
+
+Verktygen ligger i `/src/verktyg/`. Ett verktyg registreras med en rad i registret och blir då automatiskt synligt på verktygssidan, i navigationen, på de affärsområdes- och kanalsidor som anges i `areas`, samt i sitemap och llms.txt.
+
+Inbyggda verktyg körs helt i besökarens webbläsare. Säg det uttryckligen i gränssnittet när användaren laddar upp en fil eller klistrar in data.
+
+Vyer som kräver JavaScript ska ha ett `noscript`-block som förklarar varför verktyget inte syns och erbjuder en väg vidare. Lämna aldrig kvar en permanent laddningstext.
+
+## Kitsu-sidan
+
+Kitsu är HEREs egen produkt och har en egen sida med en egen delpalett, definierad under `productPalettes.kitsu`. Paletten används bara inuti mockuparna och ska inte läcka ut i sajtens övriga gränssnitt.
+
+Sidan får inte innehålla prisuppgifter så länge prismodellen inte är beslutad, och `SoftwareApplication`-schemat ska då sakna `offers`.
 
 ## Rörelse
 
-Rörelse ska förklara förändring eller hjälpa orientering. Vanliga hover- och stateövergångar ligger mellan 150 och 240ms. Långa loopar undviks med undantag för den avsiktliga hero-animationen och kundlogotypbandet.
+Rörelse ska förklara förändring eller hjälpa orientering. Använd systemets tokens: `fast` för små tillståndsbyten, `ui` för normala övergångar och `modal` för överlägg. Easing tas från `easeOut`, `easeInOut` eller `easeDrawer` i stället för egna kurvor, så att hela sajten rör sig i samma rytm.
+
+Animera `transform` och `opacity`. Undvik att animera bredd, höjd och position direkt, med undantag för `grid-template-rows` som används medvetet för utfällningar.
+
+Långa loopar undviks med undantag för hero-animationen och kundlogotypbandet. Hero-animationen pausas när den lämnar vyn eller när fliken är dold, och begränsas till 30 bilder per sekund, eftersom den annars belastar processorn i onödan ovanför vikningen.
 
 `prefers-reduced-motion` ska stoppa eller förenkla icke-nödvändig rörelse. Animation får inte flytta kontroller, orsaka layoutskift eller göra text svårare att läsa.
 
@@ -248,6 +331,8 @@ Varje komponent ska fungera från 320px och uppåt. Text får inte överlappa an
 
 Grids blir en kolumn på mobil. Horisontell scroll används endast för avsiktliga, svepbara samlingar där varje objekt fortfarande har en stabil bredd. Inga sidor får skapa oavsiktlig horisontell overflow.
 
+Använd `repeat(auto-fit, minmax(...))` när antalet objekt varierar, så att ett ensamt kort fyller raden i stället för att stå kvar som en smal halva med tomrum bredvid.
+
 ## Tillgänglighet
 
 - Använd semantiska landmarks, en unik `h1` och logisk rubrikhierarki.
@@ -255,17 +340,26 @@ Grids blir en kolumn på mobil. Horisontell scroll används endast för avsiktli
 - Bevara synlig fokusmarkering på länkar, knappar, formulärfält och `summary`.
 - Skriv alt-text som beskriver bildens relevanta innehåll och sammanhang.
 - Använd `details` och `summary` för FAQ när beteendet är en enkel accordion.
+- Använd `button` med `aria-expanded` och `aria-controls` för egna utfällningar.
 - Visa inte information enbart genom färg, position eller animation.
 - Säkerställ minst 44px träffyta för centrala touchkontroller.
 - Testa tangentbord, skärmläsarstruktur, zoom och reduced motion.
+
+## Språk
+
+Svenska är källspråket. De engelska filerna genereras av `scripts/generate-english.mjs` och ska aldrig redigeras för hand. Nya strängar översätts i `src/enTranslationOverrides.json` och URL-segment i `src/pathTranslations.js`.
+
+Språkväxlaren ska alltid leda till motsvarande sida i det andra språket, inte till startsidan.
 
 ## SEO och innehåll
 
 Alla publika sidor ska vara förgenererade så att centralt innehåll finns i HTML utan att JavaScript måste köras. Varje indexerbar sida ska ha unik meta title, meta description och canonical URL.
 
-Använd relevant schema.org-markup för organisation, tjänster, personer, artiklar, case, breadcrumbs och FAQ. Synlig text och strukturerad data måste överensstämma.
+Använd relevant schema.org-markup för organisation, tjänster, personer, artiklar, case, breadcrumbs och FAQ. Synlig text och strukturerad data måste överensstämma. Påstå aldrig ett pris i strukturerad data för något som inte har publik prissättning.
 
 Länkar ska beskriva destinationen. Bilder ska ha kontextspecifika alt-texter. Nya indexerbara routes ska läggas till i sitemap och tillåtas i `robots.txt` om det inte finns ett uttryckligt skäl att använda `noindex`.
+
+Fullständiga krav finns i `SEO_REQUIREMENTS.md`.
 
 ## Röst och innehåll
 
@@ -284,6 +378,7 @@ Språket är svenska om sidan inte uttryckligen riktar sig till en annan marknad
 - Återanvänd etablerade komponenter och Lucide-ikoner.
 - Låt faktisk data, riktiga case och riktiga personer bära designen.
 - Kontrollera desktop och mobil efter varje större layoutändring.
+- Mät kontrast när text ligger på en ny yta, i stället för att lita på ögat.
 
 ## Undvik
 
@@ -293,3 +388,4 @@ Språket är svenska om sidan inte uttryckligen riktar sig till en annan marknad
 - Blanda inte många radier eller skuggor i samma vy.
 - Beskär inte skärmbilder, personalbilder eller casebilder så att viktig information försvinner.
 - Dölj inte viktig information bakom hover eller JavaScript-only rendering.
+- Publicera inte skärmbilder som innehåller kunddata.

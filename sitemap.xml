@@ -295,12 +295,20 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/lead-management/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/utbildning-rekrytering/</loc>
+    <loc>https://here.se/affarsomraden/utbildning/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/utbildning-rekrytering/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/training-and-recruitment/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/utbildning-rekrytering/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/utbildning/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/training/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/utbildning/" />
+  </url>
+  <url>
+    <loc>https://here.se/affarsomraden/rekrytering/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/rekrytering/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/recruitment/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/rekrytering/" />
   </url>
   <url>
     <loc>https://here.se/om-here/robin-pettersson/</loc>
@@ -669,12 +677,20 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/lead-management/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/training-and-recruitment/</loc>
+    <loc>https://here.se/en/services/training/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/utbildning-rekrytering/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/training-and-recruitment/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/utbildning-rekrytering/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/utbildning/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/training/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/utbildning/" />
+  </url>
+  <url>
+    <loc>https://here.se/en/services/recruitment/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/rekrytering/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/recruitment/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/rekrytering/" />
   </url>
   <url>
     <loc>https://here.se/en/about/robin-pettersson/</loc>
