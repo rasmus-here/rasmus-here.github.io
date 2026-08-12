@@ -1,4 +1,4 @@
-import{F as c}from"./LanguageSwitcher-KlKNNrD2.js";/**
+import{H as c}from"./GrowthJourneyAnimation-DOM50uve.js";/**
  * @license lucide-react v0.468.0 - ISC
  *
  * This source code is licensed under the ISC license.
