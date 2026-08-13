@@ -1,4 +1,4 @@
-import{H as e}from"./GrowthJourneyAnimation-CGNyyA2X.js";/**
+import{H as e}from"./GrowthJourneyAnimation-BIXIw3fk.js";/**
  * @license lucide-react v0.468.0 - ISC
  *
  * This source code is licensed under the ISC license.
