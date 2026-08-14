@@ -14,7 +14,7 @@ eller annonstexter skickas till HERE eller någon tredje part.
 ## Start och kontakt
 
 - [HERE - Digital Growth Agency](https://here.se/): HERE hjälper företag med digital tillväxt genom strategi, data, marknadsföring, spårning, lead management, systemutveckling och utbildning.
-- [Tjänster](https://here.se/affarsomraden/): Läs om HEREs affärsområden inom strategi, digital marknadsföring, lead management, datainsamling, spårning, utbildning och systemutveckling.
+- [Affärsområden](https://here.se/affarsomraden/): Läs om HEREs affärsområden inom strategi, digital marknadsföring, lead management, datainsamling, spårning, utbildning och systemutveckling.
 - [Datainsamling, GDPR och server-side tracking](https://here.se/affarsomraden/datainsamling-lagring/): HERE hjälper företag med datainsamling, lagring, GDPR, server-side tracking, datakvalitet och strukturer för bättre digital uppföljning.
 - [Digital marknadsföringsbyrå för mätbar tillväxt](https://here.se/affarsomraden/digital-marknadsforing/): HERE hjälper företag med digital marknadsföring, SEO, Google Ads, Meta Ads, LinkedIn Ads, TikTok, Snapchat och datadriven optimering.
 - [Google Ads-byrå med certifierade specialister](https://here.se/affarsomraden/digital-marknadsforing/google-ads/): HERE är Google Premier Partner och hjälper företag med Google Ads, certifierade specialister, beta-funktioner, rapporter och optimering.
@@ -65,7 +65,7 @@ eller annonstexter skickas till HERE eller någon tredje part.
 
 ## Affärsområden
 
-- [Tjänster](https://here.se/affarsomraden/): Läs om HEREs affärsområden inom strategi, digital marknadsföring, lead management, datainsamling, spårning, utbildning och systemutveckling.
+- [Affärsområden](https://here.se/affarsomraden/): Läs om HEREs affärsområden inom strategi, digital marknadsföring, lead management, datainsamling, spårning, utbildning och systemutveckling.
 - [Datainsamling, GDPR och server-side tracking](https://here.se/affarsomraden/datainsamling-lagring/): HERE hjälper företag med datainsamling, lagring, GDPR, server-side tracking, datakvalitet och strukturer för bättre digital uppföljning.
 - [Digital marknadsföringsbyrå för mätbar tillväxt](https://here.se/affarsomraden/digital-marknadsforing/): HERE hjälper företag med digital marknadsföring, SEO, Google Ads, Meta Ads, LinkedIn Ads, TikTok, Snapchat och datadriven optimering.
 - [Google Ads-byrå med certifierade specialister](https://here.se/affarsomraden/digital-marknadsforing/google-ads/): HERE är Google Premier Partner och hjälper företag med Google Ads, certifierade specialister, beta-funktioner, rapporter och optimering.

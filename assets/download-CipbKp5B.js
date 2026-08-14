@@ -1,4 +1,4 @@
-import{H as o}from"./GrowthJourneyAnimation-Dk8P-UPI.js";/**
+import{H as o}from"./GrowthJourneyAnimation-CCoL9RLG.js";/**
  * @license lucide-react v0.468.0 - ISC
  *
  * This source code is licensed under the ISC license.
