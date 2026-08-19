@@ -1,4 +1,4 @@
-import{I as J,J as ve}from"./GrowthJourneyAnimation-BWAn1E-5.js";/**
+import{I as J,J as ve}from"./GrowthJourneyAnimation-BjXanl_O.js";/**
  * @license lucide-react v0.468.0 - ISC
  *
  * This source code is licensed under the ISC license.
