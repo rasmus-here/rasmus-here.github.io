@@ -42,8 +42,13 @@ eller annonstexter skickas till HERE eller någon tredje part.
 - [Kitsu](https://here.se/kitsu/): Kitsu är HEREs marknadsföringsportal: moduler för CMS, formulär, quiz, CRM, annonsdata och planering, med en AI som utför arbetet.
 - [Kontakta HERE](https://here.se/kontakt/): Kontakta HERE i Tollered för rådgivning inom digital tillväxt, marknadsföring, strategi, data, spårning och systemutveckling.
 - [Nyheter](https://here.se/nyheter/): Läs nyheter, poddar och artiklar från HERE om digital marknadsföring, SEO, martech, Google Ads och kundsamarbeten.
+- [100 000 organiska besökare till Setas Group](https://here.se/nyheter/100k-organiska-besokare-till-setas-group/): Läs hur Setas Group nådde 100 000 organiska besökare på 28 dagar genom långsiktigt SEO-arbete med teknik, innehåll och uppföljning.
+- [Bevego väljer HERE](https://here.se/nyheter/bevego-valjer-here-for-digital-marknadsforing/): Bevego förlänger samarbetet med HERE inom Google Ads, Meta Ads och LinkedIn Ads med fokus på tillväxt och konvertering.
+- [Yrkeshögskolan i Borås väljer HERE](https://here.se/nyheter/boras-yh-valjer-here-som-partner/): Yrkeshögskolan i Borås väljer HERE som partner för en ny kurs i digital marknadsföring inom Digital AD / Copy.
 - [Derome om att bygga marknadsavdelning](https://here.se/nyheter/derome-om-att-bygga-en-marknadsavdelning/): Lyssna på Derome om arbetet med att bygga en egen marknadsavdelning och skapa bättre struktur för digital marknadsföring.
+- [Shelfless väljer HERE som SEO-partner](https://here.se/nyheter/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/): Dreamlogistics väljer HERE som SEO-partner i övergången till Shelfless, med fokus på migrering, organisk synlighet och fortsatt tillväxt.
 - [Google Premier Partner i Sverige](https://here.se/nyheter/googlepremierpartner/): HERE är Google Premier Partner och tillhör toppskiktet av svenska byråer inom Google Ads. Läs vad det betyder för kunder.
+- [Ställningsprodukter i Industripodden](https://here.se/nyheter/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/): Hör Ställningsprodukter berätta om hur bolaget digitaliserat en analog bransch och byggt tillväxt genom e-handel.
 - [Martech Report 2025 - svensk summering](https://here.se/nyheter/summering-av-martech-rapporten-2025/): Läs HEREs svenska summering av Martech Report 2025 och få insikter om marknadsteknik, data och digital tillväxt.
 - [Xylem väljer HERE för digital marknadsföring](https://here.se/nyheter/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/): Xylem samarbetar med HERE för att växla upp digital marknadsföring med strategi, operativ kraft och datadriven uppföljning.
 - [Om HERE](https://here.se/om-here/): Läs mer om HERE, vår kultur, våra värderingar, teamet bakom byrån och resan från starten 2016 till dagens digitala tillväxtpartner.
@@ -105,8 +110,13 @@ eller annonstexter skickas till HERE eller någon tredje part.
 ## Nyheter och insikter
 
 - [Nyheter](https://here.se/nyheter/): Läs nyheter, poddar och artiklar från HERE om digital marknadsföring, SEO, martech, Google Ads och kundsamarbeten.
+- [100 000 organiska besökare till Setas Group](https://here.se/nyheter/100k-organiska-besokare-till-setas-group/): Läs hur Setas Group nådde 100 000 organiska besökare på 28 dagar genom långsiktigt SEO-arbete med teknik, innehåll och uppföljning.
+- [Bevego väljer HERE](https://here.se/nyheter/bevego-valjer-here-for-digital-marknadsforing/): Bevego förlänger samarbetet med HERE inom Google Ads, Meta Ads och LinkedIn Ads med fokus på tillväxt och konvertering.
+- [Yrkeshögskolan i Borås väljer HERE](https://here.se/nyheter/boras-yh-valjer-here-som-partner/): Yrkeshögskolan i Borås väljer HERE som partner för en ny kurs i digital marknadsföring inom Digital AD / Copy.
 - [Derome om att bygga marknadsavdelning](https://here.se/nyheter/derome-om-att-bygga-en-marknadsavdelning/): Lyssna på Derome om arbetet med att bygga en egen marknadsavdelning och skapa bättre struktur för digital marknadsföring.
+- [Shelfless väljer HERE som SEO-partner](https://here.se/nyheter/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/): Dreamlogistics väljer HERE som SEO-partner i övergången till Shelfless, med fokus på migrering, organisk synlighet och fortsatt tillväxt.
 - [Google Premier Partner i Sverige](https://here.se/nyheter/googlepremierpartner/): HERE är Google Premier Partner och tillhör toppskiktet av svenska byråer inom Google Ads. Läs vad det betyder för kunder.
+- [Ställningsprodukter i Industripodden](https://here.se/nyheter/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/): Hör Ställningsprodukter berätta om hur bolaget digitaliserat en analog bransch och byggt tillväxt genom e-handel.
 - [Martech Report 2025 - svensk summering](https://here.se/nyheter/summering-av-martech-rapporten-2025/): Läs HEREs svenska summering av Martech Report 2025 och få insikter om marknadsteknik, data och digital tillväxt.
 - [Xylem väljer HERE för digital marknadsföring](https://here.se/nyheter/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/): Xylem samarbetar med HERE för att växla upp digital marknadsföring med strategi, operativ kraft och datadriven uppföljning.
 
