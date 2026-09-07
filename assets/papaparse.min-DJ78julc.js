@@ -1,4 +1,4 @@
-import{H as $,I as ve}from"./LanguageSwitcher-RGY-ldTw.js";/**
+import{H as $,I as ve}from"./LanguageSwitcher-C3EhBUxq.js";/**
  * @license lucide-react v0.468.0 - ISC
  *
  * This source code is licensed under the ISC license.
