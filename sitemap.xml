@@ -83,365 +83,365 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/cookiepolicy/" />
   </url>
   <url>
-    <loc>https://here.se/verktyg/utm-byggare/</loc>
+    <loc>https://here.se/utm-byggare/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/verktyg/utm-byggare/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/tools/utm-builder/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/verktyg/utm-byggare/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/utm-byggare/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/utm-builder/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/utm-byggare/" />
   </url>
   <url>
-    <loc>https://here.se/verktyg/rsa-byggare/</loc>
+    <loc>https://here.se/rsa-byggare/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/verktyg/rsa-byggare/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/tools/rsa-builder/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/verktyg/rsa-byggare/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/rsa-byggare/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/rsa-builder/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/rsa-byggare/" />
   </url>
   <url>
-    <loc>https://here.se/verktyg/feed-validator/</loc>
+    <loc>https://here.se/feed-validator/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/verktyg/feed-validator/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/tools/feed-validator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/verktyg/feed-validator/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/feed-validator/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/feed-validator/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/feed-validator/" />
   </url>
   <url>
-    <loc>https://here.se/nyheter/summering-av-martech-rapporten-2025/</loc>
+    <loc>https://here.se/summering-av-martech-rapporten-2025/</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/summering-av-martech-rapporten-2025/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/summering-av-martech-rapporten-2025/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/summering-av-martech-rapporten-2025/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/summering-av-martech-rapporten-2025/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/summering-av-martech-rapporten-2025/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/summering-av-martech-rapporten-2025/" />
   </url>
   <url>
-    <loc>https://here.se/nyheter/googlepremierpartner/</loc>
+    <loc>https://here.se/googlepremierpartner/</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/googlepremierpartner/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/googlepremierpartner/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/googlepremierpartner/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/googlepremierpartner/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/googlepremierpartner/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/googlepremierpartner/" />
   </url>
   <url>
-    <loc>https://here.se/nyheter/bevego-valjer-here-for-digital-marknadsforing/</loc>
+    <loc>https://here.se/bevego-valjer-here-for-digital-marknadsforing/</loc>
     <lastmod>2026-08-19</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/bevego-valjer-here-for-digital-marknadsforing/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/bevego-valjer-here-for-digital-marknadsforing/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/bevego-valjer-here-for-digital-marknadsforing/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/bevego-valjer-here-for-digital-marknadsforing/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/bevego-valjer-here-for-digital-marknadsforing/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/bevego-valjer-here-for-digital-marknadsforing/" />
   </url>
   <url>
-    <loc>https://here.se/nyheter/100k-organiska-besokare-till-setas-group/</loc>
+    <loc>https://here.se/100k-organiska-besokare-till-setas-group/</loc>
     <lastmod>2026-08-19</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/100k-organiska-besokare-till-setas-group/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/100k-organiska-besokare-till-setas-group/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/100k-organiska-besokare-till-setas-group/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/100k-organiska-besokare-till-setas-group/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/100k-organiska-besokare-till-setas-group/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/100k-organiska-besokare-till-setas-group/" />
   </url>
   <url>
-    <loc>https://here.se/nyheter/derome-om-att-bygga-en-marknadsavdelning/</loc>
+    <loc>https://here.se/derome-om-att-bygga-en-marknadsavdelning/</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/derome-om-att-bygga-en-marknadsavdelning/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/derome-om-att-bygga-en-marknadsavdelning/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/derome-om-att-bygga-en-marknadsavdelning/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/derome-om-att-bygga-en-marknadsavdelning/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/derome-om-att-bygga-en-marknadsavdelning/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/derome-om-att-bygga-en-marknadsavdelning/" />
   </url>
   <url>
-    <loc>https://here.se/nyheter/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/</loc>
+    <loc>https://here.se/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/" />
   </url>
   <url>
-    <loc>https://here.se/nyheter/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/</loc>
+    <loc>https://here.se/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/</loc>
     <lastmod>2026-08-19</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/" />
   </url>
   <url>
-    <loc>https://here.se/nyheter/boras-yh-valjer-here-som-partner/</loc>
+    <loc>https://here.se/boras-yh-valjer-here-som-partner/</loc>
     <lastmod>2026-08-19</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/boras-yh-valjer-here-som-partner/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/boras-yh-valjer-here-som-partner/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/boras-yh-valjer-here-som-partner/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/boras-yh-valjer-here-som-partner/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/boras-yh-valjer-here-som-partner/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/boras-yh-valjer-here-som-partner/" />
   </url>
   <url>
-    <loc>https://here.se/nyheter/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/</loc>
+    <loc>https://here.se/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/</loc>
     <lastmod>2026-08-19</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/" />
   </url>
   <url>
-    <loc>https://here.se/case-studies/mmsports/</loc>
+    <loc>https://here.se/mmsports/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/case-studies/mmsports/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/case-studies/mmsports/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/case-studies/mmsports/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/mmsports/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/mmsports/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/mmsports/" />
   </url>
   <url>
-    <loc>https://here.se/case-studies/eleiko/</loc>
+    <loc>https://here.se/eleiko/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/case-studies/eleiko/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/case-studies/eleiko/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/case-studies/eleiko/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/eleiko/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/eleiko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/eleiko/" />
   </url>
   <url>
-    <loc>https://here.se/case-studies/ihm-business-school/</loc>
+    <loc>https://here.se/ihm-business-school/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/case-studies/ihm-business-school/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/case-studies/ihm-business-school/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/case-studies/ihm-business-school/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/ihm-business-school/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/ihm-business-school/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/ihm-business-school/" />
   </url>
   <url>
-    <loc>https://here.se/case-studies/trumpf-scandinavia/</loc>
+    <loc>https://here.se/trumpf-scandinavia/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/case-studies/trumpf-scandinavia/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/case-studies/trumpf-scandinavia/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/case-studies/trumpf-scandinavia/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/trumpf-scandinavia/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/trumpf-scandinavia/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/trumpf-scandinavia/" />
   </url>
   <url>
-    <loc>https://here.se/case-studies/innovatum-science-park/</loc>
+    <loc>https://here.se/innovatum-science-park/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/case-studies/innovatum-science-park/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/case-studies/innovatum-science-park/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/case-studies/innovatum-science-park/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/innovatum-science-park/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/innovatum-science-park/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/innovatum-science-park/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/digital-marknadsforing/seo/</loc>
+    <loc>https://here.se/seo/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/seo/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/seo/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/seo/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/seo/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/seo/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/seo/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/digital-marknadsforing/google-ads/</loc>
+    <loc>https://here.se/google-ads/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/google-ads/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/google-ads/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/google-ads/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/google-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/google-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/google-ads/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/digital-marknadsforing/meta-ads/</loc>
+    <loc>https://here.se/meta-ads/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/meta-ads/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/meta-ads/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/meta-ads/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/meta-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/meta-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/meta-ads/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/digital-marknadsforing/linkedin-ads/</loc>
+    <loc>https://here.se/linkedin-ads/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/linkedin-ads/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/linkedin-ads/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/linkedin-ads/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/linkedin-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/linkedin-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/linkedin-ads/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/digital-marknadsforing/tiktok-ads/</loc>
+    <loc>https://here.se/tiktok-ads/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/tiktok-ads/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/tiktok-ads/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/tiktok-ads/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/tiktok-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/tiktok-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/tiktok-ads/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/digital-marknadsforing/snapchat-ads/</loc>
+    <loc>https://here.se/snapchat-ads/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/snapchat-ads/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/snapchat-ads/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/snapchat-ads/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/snapchat-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/snapchat-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/snapchat-ads/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/digital-marknadsforing/pinterest-ads/</loc>
+    <loc>https://here.se/pinterest-ads/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/pinterest-ads/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/pinterest-ads/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/pinterest-ads/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/pinterest-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/pinterest-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/pinterest-ads/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/digital-marknadsforing/reddit-ads/</loc>
+    <loc>https://here.se/reddit-ads/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/reddit-ads/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/reddit-ads/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/reddit-ads/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/reddit-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/reddit-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/reddit-ads/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/digital-marknadsforing/chatgpt-ads/</loc>
+    <loc>https://here.se/chatgpt-ads/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/chatgpt-ads/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/chatgpt-ads/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/chatgpt-ads/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/chatgpt-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/chatgpt-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/chatgpt-ads/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/digital-marknadsforing/</loc>
+    <loc>https://here.se/digital-marknadsforing/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/digital-marknadsforing/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/digital-marketing/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/digital-marknadsforing/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/strategi-affarsutveckling/</loc>
+    <loc>https://here.se/strategi-affarsutveckling/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/strategi-affarsutveckling/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/strategy-and-business-development/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/strategi-affarsutveckling/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/strategi-affarsutveckling/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/strategy-and-business-development/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/strategi-affarsutveckling/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/systemutveckling/</loc>
+    <loc>https://here.se/systemutveckling/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/systemutveckling/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/system-development/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/systemutveckling/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/systemutveckling/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/system-development/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/systemutveckling/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/sparning-visualisering/</loc>
+    <loc>https://here.se/sparning-visualisering/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/sparning-visualisering/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/tracking-and-visualisation/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/sparning-visualisering/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/sparning-visualisering/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/tracking-and-visualisation/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/sparning-visualisering/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/datainsamling-lagring/</loc>
+    <loc>https://here.se/datainsamling-lagring/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/datainsamling-lagring/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/data-collection-and-storage/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/datainsamling-lagring/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/datainsamling-lagring/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/data-collection-and-storage/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/datainsamling-lagring/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/lead-management/</loc>
+    <loc>https://here.se/lead-management/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/lead-management/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/lead-management/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/lead-management/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/lead-management/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/lead-management/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/lead-management/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/utbildning/</loc>
+    <loc>https://here.se/utbildning/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/utbildning/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/training/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/utbildning/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/utbildning/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/training/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/utbildning/" />
   </url>
   <url>
-    <loc>https://here.se/affarsomraden/rekrytering/</loc>
+    <loc>https://here.se/rekrytering/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/rekrytering/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/recruitment/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/rekrytering/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/rekrytering/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/recruitment/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/rekrytering/" />
   </url>
   <url>
-    <loc>https://here.se/om-here/robin-pettersson/</loc>
+    <loc>https://here.se/robin-pettersson/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/robin-pettersson/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/robin-pettersson/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/robin-pettersson/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/robin-pettersson/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/robin-pettersson/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/robin-pettersson/" />
   </url>
   <url>
-    <loc>https://here.se/om-here/niklas-johansson/</loc>
+    <loc>https://here.se/niklas-johansson/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/niklas-johansson/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/niklas-johansson/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/niklas-johansson/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/niklas-johansson/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/niklas-johansson/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/niklas-johansson/" />
   </url>
   <url>
-    <loc>https://here.se/om-here/gustav-onneslov/</loc>
+    <loc>https://here.se/gustav-onneslov/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/gustav-onneslov/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/gustav-onneslov/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/gustav-onneslov/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/gustav-onneslov/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/gustav-onneslov/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/gustav-onneslov/" />
   </url>
   <url>
-    <loc>https://here.se/om-here/dennis-han/</loc>
+    <loc>https://here.se/dennis-han/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/dennis-han/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/dennis-han/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/dennis-han/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/dennis-han/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/dennis-han/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/dennis-han/" />
   </url>
   <url>
-    <loc>https://here.se/om-here/gary-vasquez/</loc>
+    <loc>https://here.se/gary-vasquez/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/gary-vasquez/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/gary-vasquez/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/gary-vasquez/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/gary-vasquez/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/gary-vasquez/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/gary-vasquez/" />
   </url>
   <url>
-    <loc>https://here.se/om-here/pontus-engqvist/</loc>
+    <loc>https://here.se/pontus-engqvist/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/pontus-engqvist/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/pontus-engqvist/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/pontus-engqvist/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/pontus-engqvist/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/pontus-engqvist/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/pontus-engqvist/" />
   </url>
   <url>
-    <loc>https://here.se/om-here/rasmus-dagerhorn/</loc>
+    <loc>https://here.se/rasmus-dagerhorn/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/rasmus-dagerhorn/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/rasmus-dagerhorn/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/rasmus-dagerhorn/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/rasmus-dagerhorn/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/rasmus-dagerhorn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/rasmus-dagerhorn/" />
   </url>
   <url>
-    <loc>https://here.se/om-here/robin-olsen/</loc>
+    <loc>https://here.se/robin-olsen/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/robin-olsen/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/robin-olsen/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/robin-olsen/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/robin-olsen/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/robin-olsen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/robin-olsen/" />
   </url>
   <url>
-    <loc>https://here.se/om-here/alex-huang/</loc>
+    <loc>https://here.se/alex-huang/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/alex-huang/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/alex-huang/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/alex-huang/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/alex-huang/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/alex-huang/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/alex-huang/" />
   </url>
   <url>
-    <loc>https://here.se/om-here/leo-artborg/</loc>
+    <loc>https://here.se/leo-artborg/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/leo-artborg/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/leo-artborg/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/leo-artborg/" />
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/leo-artborg/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/leo-artborg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/leo-artborg/" />
   </url>
   <url>
     <loc>https://here.se/en/</loc>
@@ -526,364 +526,364 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/cookiepolicy/" />
   </url>
   <url>
-    <loc>https://here.se/en/tools/utm-builder/</loc>
+    <loc>https://here.se/en/utm-builder/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/verktyg/utm-byggare/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/tools/utm-builder/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/verktyg/utm-byggare/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/utm-byggare/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/utm-builder/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/utm-byggare/" />
   </url>
   <url>
-    <loc>https://here.se/en/tools/rsa-builder/</loc>
+    <loc>https://here.se/en/rsa-builder/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/verktyg/rsa-byggare/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/tools/rsa-builder/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/verktyg/rsa-byggare/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/rsa-byggare/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/rsa-builder/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/rsa-byggare/" />
   </url>
   <url>
-    <loc>https://here.se/en/tools/feed-validator/</loc>
+    <loc>https://here.se/en/feed-validator/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/verktyg/feed-validator/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/tools/feed-validator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/verktyg/feed-validator/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/feed-validator/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/feed-validator/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/feed-validator/" />
   </url>
   <url>
-    <loc>https://here.se/en/news/summering-av-martech-rapporten-2025/</loc>
+    <loc>https://here.se/en/summering-av-martech-rapporten-2025/</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/summering-av-martech-rapporten-2025/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/summering-av-martech-rapporten-2025/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/summering-av-martech-rapporten-2025/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/summering-av-martech-rapporten-2025/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/summering-av-martech-rapporten-2025/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/summering-av-martech-rapporten-2025/" />
   </url>
   <url>
-    <loc>https://here.se/en/news/googlepremierpartner/</loc>
+    <loc>https://here.se/en/googlepremierpartner/</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/googlepremierpartner/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/googlepremierpartner/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/googlepremierpartner/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/googlepremierpartner/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/googlepremierpartner/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/googlepremierpartner/" />
   </url>
   <url>
-    <loc>https://here.se/en/news/bevego-valjer-here-for-digital-marknadsforing/</loc>
+    <loc>https://here.se/en/bevego-valjer-here-for-digital-marknadsforing/</loc>
     <lastmod>2026-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/bevego-valjer-here-for-digital-marknadsforing/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/bevego-valjer-here-for-digital-marknadsforing/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/bevego-valjer-here-for-digital-marknadsforing/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/bevego-valjer-here-for-digital-marknadsforing/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/bevego-valjer-here-for-digital-marknadsforing/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/bevego-valjer-here-for-digital-marknadsforing/" />
   </url>
   <url>
-    <loc>https://here.se/en/news/100k-organiska-besokare-till-setas-group/</loc>
+    <loc>https://here.se/en/100k-organiska-besokare-till-setas-group/</loc>
     <lastmod>2026-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/100k-organiska-besokare-till-setas-group/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/100k-organiska-besokare-till-setas-group/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/100k-organiska-besokare-till-setas-group/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/100k-organiska-besokare-till-setas-group/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/100k-organiska-besokare-till-setas-group/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/100k-organiska-besokare-till-setas-group/" />
   </url>
   <url>
-    <loc>https://here.se/en/news/derome-om-att-bygga-en-marknadsavdelning/</loc>
+    <loc>https://here.se/en/derome-om-att-bygga-en-marknadsavdelning/</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/derome-om-att-bygga-en-marknadsavdelning/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/derome-om-att-bygga-en-marknadsavdelning/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/derome-om-att-bygga-en-marknadsavdelning/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/derome-om-att-bygga-en-marknadsavdelning/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/derome-om-att-bygga-en-marknadsavdelning/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/derome-om-att-bygga-en-marknadsavdelning/" />
   </url>
   <url>
-    <loc>https://here.se/en/news/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/</loc>
+    <loc>https://here.se/en/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/xylem-tar-in-here-for-hjalp-med-digital-marknadsforing/" />
   </url>
   <url>
-    <loc>https://here.se/en/news/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/</loc>
+    <loc>https://here.se/en/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/</loc>
     <lastmod>2026-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/dreamlogistics-blir-shelfless-valjer-here-som-seopartner/" />
   </url>
   <url>
-    <loc>https://here.se/en/news/boras-yh-valjer-here-som-partner/</loc>
+    <loc>https://here.se/en/boras-yh-valjer-here-som-partner/</loc>
     <lastmod>2026-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/boras-yh-valjer-here-som-partner/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/boras-yh-valjer-here-som-partner/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/boras-yh-valjer-here-som-partner/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/boras-yh-valjer-here-som-partner/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/boras-yh-valjer-here-som-partner/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/boras-yh-valjer-here-som-partner/" />
   </url>
   <url>
-    <loc>https://here.se/en/news/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/</loc>
+    <loc>https://here.se/en/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/</loc>
     <lastmod>2026-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/nyheter/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/news/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/nyheter/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/" />
   </url>
   <url>
-    <loc>https://here.se/en/case-studies/mmsports/</loc>
+    <loc>https://here.se/en/mmsports/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/case-studies/mmsports/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/case-studies/mmsports/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/case-studies/mmsports/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/mmsports/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/mmsports/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/mmsports/" />
   </url>
   <url>
-    <loc>https://here.se/en/case-studies/eleiko/</loc>
+    <loc>https://here.se/en/eleiko/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/case-studies/eleiko/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/case-studies/eleiko/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/case-studies/eleiko/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/eleiko/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/eleiko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/eleiko/" />
   </url>
   <url>
-    <loc>https://here.se/en/case-studies/ihm-business-school/</loc>
+    <loc>https://here.se/en/ihm-business-school/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/case-studies/ihm-business-school/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/case-studies/ihm-business-school/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/case-studies/ihm-business-school/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/ihm-business-school/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/ihm-business-school/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/ihm-business-school/" />
   </url>
   <url>
-    <loc>https://here.se/en/case-studies/trumpf-scandinavia/</loc>
+    <loc>https://here.se/en/trumpf-scandinavia/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/case-studies/trumpf-scandinavia/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/case-studies/trumpf-scandinavia/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/case-studies/trumpf-scandinavia/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/trumpf-scandinavia/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/trumpf-scandinavia/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/trumpf-scandinavia/" />
   </url>
   <url>
-    <loc>https://here.se/en/case-studies/innovatum-science-park/</loc>
+    <loc>https://here.se/en/innovatum-science-park/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/case-studies/innovatum-science-park/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/case-studies/innovatum-science-park/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/case-studies/innovatum-science-park/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/innovatum-science-park/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/innovatum-science-park/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/innovatum-science-park/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/digital-marketing/seo/</loc>
+    <loc>https://here.se/en/seo/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/seo/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/seo/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/seo/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/seo/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/seo/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/seo/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/digital-marketing/google-ads/</loc>
+    <loc>https://here.se/en/google-ads/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/google-ads/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/google-ads/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/google-ads/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/google-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/google-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/google-ads/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/digital-marketing/meta-ads/</loc>
+    <loc>https://here.se/en/meta-ads/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/meta-ads/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/meta-ads/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/meta-ads/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/meta-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/meta-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/meta-ads/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/digital-marketing/linkedin-ads/</loc>
+    <loc>https://here.se/en/linkedin-ads/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/linkedin-ads/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/linkedin-ads/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/linkedin-ads/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/linkedin-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/linkedin-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/linkedin-ads/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/digital-marketing/tiktok-ads/</loc>
+    <loc>https://here.se/en/tiktok-ads/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/tiktok-ads/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/tiktok-ads/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/tiktok-ads/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/tiktok-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/tiktok-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/tiktok-ads/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/digital-marketing/snapchat-ads/</loc>
+    <loc>https://here.se/en/snapchat-ads/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/snapchat-ads/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/snapchat-ads/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/snapchat-ads/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/snapchat-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/snapchat-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/snapchat-ads/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/digital-marketing/pinterest-ads/</loc>
+    <loc>https://here.se/en/pinterest-ads/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/pinterest-ads/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/pinterest-ads/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/pinterest-ads/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/pinterest-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/pinterest-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/pinterest-ads/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/digital-marketing/reddit-ads/</loc>
+    <loc>https://here.se/en/reddit-ads/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/reddit-ads/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/reddit-ads/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/reddit-ads/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/reddit-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/reddit-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/reddit-ads/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/digital-marketing/chatgpt-ads/</loc>
+    <loc>https://here.se/en/chatgpt-ads/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/chatgpt-ads/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/chatgpt-ads/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/chatgpt-ads/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/chatgpt-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/chatgpt-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/chatgpt-ads/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/digital-marketing/</loc>
+    <loc>https://here.se/en/digital-marketing/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/digital-marknadsforing/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/digital-marketing/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/digital-marknadsforing/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/strategy-and-business-development/</loc>
+    <loc>https://here.se/en/strategy-and-business-development/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/strategi-affarsutveckling/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/strategy-and-business-development/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/strategi-affarsutveckling/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/strategi-affarsutveckling/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/strategy-and-business-development/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/strategi-affarsutveckling/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/system-development/</loc>
+    <loc>https://here.se/en/system-development/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/systemutveckling/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/system-development/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/systemutveckling/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/systemutveckling/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/system-development/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/systemutveckling/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/tracking-and-visualisation/</loc>
+    <loc>https://here.se/en/tracking-and-visualisation/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/sparning-visualisering/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/tracking-and-visualisation/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/sparning-visualisering/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/sparning-visualisering/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/tracking-and-visualisation/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/sparning-visualisering/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/data-collection-and-storage/</loc>
+    <loc>https://here.se/en/data-collection-and-storage/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/datainsamling-lagring/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/data-collection-and-storage/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/datainsamling-lagring/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/datainsamling-lagring/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/data-collection-and-storage/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/datainsamling-lagring/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/lead-management/</loc>
+    <loc>https://here.se/en/lead-management/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/lead-management/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/lead-management/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/lead-management/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/lead-management/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/lead-management/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/lead-management/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/training/</loc>
+    <loc>https://here.se/en/training/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/utbildning/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/training/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/utbildning/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/utbildning/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/training/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/utbildning/" />
   </url>
   <url>
-    <loc>https://here.se/en/services/recruitment/</loc>
+    <loc>https://here.se/en/recruitment/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/rekrytering/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/recruitment/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/rekrytering/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/rekrytering/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/recruitment/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/rekrytering/" />
   </url>
   <url>
-    <loc>https://here.se/en/about/robin-pettersson/</loc>
+    <loc>https://here.se/en/robin-pettersson/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/robin-pettersson/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/robin-pettersson/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/robin-pettersson/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/robin-pettersson/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/robin-pettersson/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/robin-pettersson/" />
   </url>
   <url>
-    <loc>https://here.se/en/about/niklas-johansson/</loc>
+    <loc>https://here.se/en/niklas-johansson/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/niklas-johansson/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/niklas-johansson/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/niklas-johansson/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/niklas-johansson/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/niklas-johansson/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/niklas-johansson/" />
   </url>
   <url>
-    <loc>https://here.se/en/about/gustav-onneslov/</loc>
+    <loc>https://here.se/en/gustav-onneslov/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/gustav-onneslov/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/gustav-onneslov/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/gustav-onneslov/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/gustav-onneslov/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/gustav-onneslov/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/gustav-onneslov/" />
   </url>
   <url>
-    <loc>https://here.se/en/about/dennis-han/</loc>
+    <loc>https://here.se/en/dennis-han/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/dennis-han/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/dennis-han/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/dennis-han/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/dennis-han/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/dennis-han/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/dennis-han/" />
   </url>
   <url>
-    <loc>https://here.se/en/about/gary-vasquez/</loc>
+    <loc>https://here.se/en/gary-vasquez/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/gary-vasquez/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/gary-vasquez/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/gary-vasquez/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/gary-vasquez/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/gary-vasquez/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/gary-vasquez/" />
   </url>
   <url>
-    <loc>https://here.se/en/about/pontus-engqvist/</loc>
+    <loc>https://here.se/en/pontus-engqvist/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/pontus-engqvist/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/pontus-engqvist/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/pontus-engqvist/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/pontus-engqvist/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/pontus-engqvist/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/pontus-engqvist/" />
   </url>
   <url>
-    <loc>https://here.se/en/about/rasmus-dagerhorn/</loc>
+    <loc>https://here.se/en/rasmus-dagerhorn/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/rasmus-dagerhorn/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/rasmus-dagerhorn/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/rasmus-dagerhorn/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/rasmus-dagerhorn/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/rasmus-dagerhorn/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/rasmus-dagerhorn/" />
   </url>
   <url>
-    <loc>https://here.se/en/about/robin-olsen/</loc>
+    <loc>https://here.se/en/robin-olsen/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/robin-olsen/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/robin-olsen/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/robin-olsen/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/robin-olsen/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/robin-olsen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/robin-olsen/" />
   </url>
   <url>
-    <loc>https://here.se/en/about/alex-huang/</loc>
+    <loc>https://here.se/en/alex-huang/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/alex-huang/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/alex-huang/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/alex-huang/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/alex-huang/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/alex-huang/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/alex-huang/" />
   </url>
   <url>
-    <loc>https://here.se/en/about/leo-artborg/</loc>
+    <loc>https://here.se/en/leo-artborg/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/om-here/leo-artborg/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/about/leo-artborg/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/om-here/leo-artborg/" />
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/leo-artborg/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/leo-artborg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/leo-artborg/" />
   </url>
 </urlset>
