@@ -1,4 +1,4 @@
-import{I as o}from"./GrowthJourneyAnimation-Bigtep4L.js";/**
+import{H as o}from"./LanguageSwitcher-BzIw1Nj4.js";/**
  * @license lucide-react v0.468.0 - ISC
  *
  * This source code is licensed under the ISC license.
