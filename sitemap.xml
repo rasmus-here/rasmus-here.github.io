@@ -292,6 +292,14 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/reddit-ads/" />
   </url>
   <url>
+    <loc>https://here.se/affarsomraden/digital-marknadsforing/chatgpt-ads/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/chatgpt-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/chatgpt-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/chatgpt-ads/" />
+  </url>
+  <url>
     <loc>https://here.se/affarsomraden/digital-marknadsforing/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -725,6 +733,14 @@
     <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/reddit-ads/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/reddit-ads/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/reddit-ads/" />
+  </url>
+  <url>
+    <loc>https://here.se/en/services/digital-marketing/chatgpt-ads/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/affarsomraden/digital-marknadsforing/chatgpt-ads/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/services/digital-marketing/chatgpt-ads/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/affarsomraden/digital-marknadsforing/chatgpt-ads/" />
   </url>
   <url>
     <loc>https://here.se/en/services/digital-marketing/</loc>
