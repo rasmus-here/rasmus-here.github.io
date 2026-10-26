@@ -1,4 +1,4 @@
-import{H as a}from"./LanguageSwitcher-2Lyugq_J.js";/**
+import{I as a}from"./LanguageSwitcher-CemQps_M.js";/**
  * @license lucide-react v0.468.0 - ISC
  *
  * This source code is licensed under the ISC license.
