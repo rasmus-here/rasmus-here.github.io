@@ -1,4 +1,4 @@
-import{I as a}from"./LanguageSwitcher-CCZ_TUP_.js";/**
+import{J as a}from"./LanguageSwitcher-B756gMcu.js";/**
  * @license lucide-react v0.468.0 - ISC
  *
  * This source code is licensed under the ISC license.

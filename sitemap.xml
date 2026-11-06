@@ -188,6 +188,14 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/" />
   </url>
   <url>
+    <loc>https://here.se/stanstek/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/stanstek/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/stanstek/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/stanstek/" />
+  </url>
+  <url>
     <loc>https://here.se/mmsports/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -629,6 +637,14 @@
     <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/stallningsprodukter-en-ehandelsraket-i-en-analog-bransch/" />
+  </url>
+  <url>
+    <loc>https://here.se/en/stanstek/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/stanstek/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/stanstek/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/stanstek/" />
   </url>
   <url>
     <loc>https://here.se/en/mmsports/</loc>
