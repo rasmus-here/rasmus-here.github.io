@@ -107,15 +107,6 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/feed-validator/" />
   </url>
   <url>
-    <loc>https://here.se/summering-av-martech-rapporten-2025/</loc>
-    <lastmod>2026-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/summering-av-martech-rapporten-2025/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/summering-av-martech-rapporten-2025/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/summering-av-martech-rapporten-2025/" />
-  </url>
-  <url>
     <loc>https://here.se/googlepremierpartner/</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -123,6 +114,15 @@
     <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/googlepremierpartner/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/googlepremierpartner/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/googlepremierpartner/" />
+  </url>
+  <url>
+    <loc>https://here.se/summering-av-martech-rapporten-2025/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/summering-av-martech-rapporten-2025/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/summering-av-martech-rapporten-2025/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/summering-av-martech-rapporten-2025/" />
   </url>
   <url>
     <loc>https://here.se/bevego-valjer-here-for-digital-marknadsforing/</loc>
@@ -558,15 +558,6 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/feed-validator/" />
   </url>
   <url>
-    <loc>https://here.se/en/summering-av-martech-rapporten-2025/</loc>
-    <lastmod>2026-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/summering-av-martech-rapporten-2025/" />
-    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/summering-av-martech-rapporten-2025/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/summering-av-martech-rapporten-2025/" />
-  </url>
-  <url>
     <loc>https://here.se/en/googlepremierpartner/</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -574,6 +565,15 @@
     <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/googlepremierpartner/" />
     <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/googlepremierpartner/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/googlepremierpartner/" />
+  </url>
+  <url>
+    <loc>https://here.se/en/summering-av-martech-rapporten-2025/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="sv-SE" href="https://here.se/summering-av-martech-rapporten-2025/" />
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://here.se/en/summering-av-martech-rapporten-2025/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://here.se/summering-av-martech-rapporten-2025/" />
   </url>
   <url>
     <loc>https://here.se/en/bevego-valjer-here-for-digital-marknadsforing/</loc>
